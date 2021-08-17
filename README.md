@@ -2,7 +2,7 @@
 <h3 align="center"> Research Enthusiastic | Medical Imaging | Information Security | Artificial Intelligence | ML/DL | Entrepreneur </h3>
 
 <p align="center">
-  <img width="100" height="100" src="https://motiur.info/authors/admin/avatar.jpg">
+  <img width="100" height="100" src="https://avatars.githubusercontent.com/u/8852587?v=4">
 </p>
 
 <!--![]()-->
