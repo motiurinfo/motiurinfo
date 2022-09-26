@@ -26,7 +26,7 @@
                             <a target="_blank" href="https://scholar.google.com/citations?user=7xRcCqwAAAAJ&hl=en"> Google Scholar</a> | 
                            <a target="_blank" href="https://orcid.org/0000-0001-5278-5186"> ORCID</a> | 
                            <a target="_blank" href="https://www.researchgate.net/profile/Sheikh-Shah-Mohammad-Rahman"> ResearchGate</a> |
-                           <a target="_blank" href="https://publons.com/researcher/1890558/sheikh-shah-mohammad-motiur-rahman/"> Publons</a></p>
+                           <a target="_blank" href="https://www.webofscience.com/wos/author/record/N-5186-2018"> Web of Science</a></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motiurinfo">
