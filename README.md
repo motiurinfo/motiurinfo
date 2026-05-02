@@ -30,10 +30,7 @@
 <div align="center">
 <h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motiurinfo&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motiurinfo&layout=compact&theme=vue-dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=motiurinfo&theme=vue" alt="GitHub Stats" />
 </p></div>
 
 ---
