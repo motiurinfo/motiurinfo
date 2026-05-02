@@ -28,11 +28,13 @@
 ---
 
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=motiurinfo&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0b1120" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motiurinfo&layout=compact&theme=vue-dark&hide_border=true&bg_color=0b1120" alt="Top Languages" />
-</div>
+<h3 align="center">📊 GitHub Analytics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=motiurinfo&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motiurinfo&layout=compact&theme=vue-dark" alt="Top Languages" />
+</p></div>
 
 ---
 
