@@ -18,7 +18,7 @@
 
 - 👀 I’m currently focused on **Trustworthy AI, Neuro-symbolic Compilers, and end-to-end MLOps pipelines**.
 - 🔭 I’m currently a **Postdoctoral Fellow at Université de Montréal**, architecting cross-lab neuro-AI data pipelines and modernizing legacy scientific compute systems.
-- 🌱 I’m currently building **DeepSymbolica** (a PyTorch-native neuro-symbolic compiler) and **OxLearn** (a high-performance Rust ML library).
+- 🌱 I’m currently building **DeepSymbolica** (a PyTorch-native neuro-symbolic compiler).
 - 👯 I’m looking to collaborate on **scalable deep learning infrastructure** and open-source validation tools.
 - 💬 Ask me about: **Controllable AI, SEM Image Denoising, Python architectures, or transitioning research into production code.**
 - 📫 How to reach me: [motiur.ion@gmail.com](mailto:motiur.ion@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/motiurinfo).
