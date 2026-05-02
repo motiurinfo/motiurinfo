@@ -1,38 +1,50 @@
-<h1 align="center"> 👋 Hi, I’m <a target="_blank" href="https://motiur.info">Sheikh Shah Mohammad Motiur Rahman </a> </h1>
-<h3 align="center"> Research Enthusiastic | Medical Imaging | Information Security | Artificial Intelligence | ML/DL | Entrepreneur </h3>
+<h1 align="center"> 👋 Hi, I’m <a target="_blank" href="https://motiur.info">Dr. Sheikh Shah Mohammad Motiur Rahman</a> </h1>
+<h3 align="center"> Applied AI Scientist | MLOps Engineer | Deep Learning Researcher </h3>
 
 <p align="center">
-  <img width="100" height="100" src="https://avatars.githubusercontent.com/u/8852587?s=400&u=51d60246eb2647ab40532ed8709610581b121512&v=4">
+  <img width="100" height="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/8852587?v=4">
 </p>
 
-<!--![]()-->
-
-- 👀 I’m interested in Medical Imaging, Deep Learning, Information Security and Computer Vision.
-- 🔭 I’m currently working on research projects about Deep Learning and Computer Vision in Medical Imaging.
-- 🌱 I’m currently learning Knowledge Microscopy Images, Cardiovascular Disease , Generative Adversarial Networks (GANs), Attention and Transformer networks for vision.
-- 👯 I’m looking to collaborate on a research involving my research interest.
-- 🤔 I’m working to establish  [nFuture Research Lab](https://www.nfuture.org "nFuture Research Lab"), [Higher Study Info](https://www.higherstudy.info "Higher Study Info") , [FoodiesFew](https://www.foodiesfew.com "FoodiesFew") and few more initiatives.
-- 💬 You have interesting ideas! Feel free to reach me.
-- 📫 How to reach me: motiur@ieee.org
-- 😄 Fun fact: I love Cooking and watching Cartoons.
-- Love to play :soccer: and :badminton:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motiurinfo&show_icons=true&theme=vue-dark">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-  <h2 align="center"> :eyes: Research Profiles: :eyes: </h2>
-<p align="center"><a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57202087629"> SCOPUS</a> | 
-                            <a target="_blank" href="https://scholar.google.com/citations?user=7xRcCqwAAAAJ&hl=en"> Google Scholar</a> | 
-                           <a target="_blank" href="https://orcid.org/0000-0001-5278-5186"> ORCID</a> | 
-                           <a target="_blank" href="https://www.researchgate.net/profile/Sheikh-Shah-Mohammad-Rahman"> ResearchGate</a> |
-                           <a target="_blank" href="https://www.webofscience.com/wos/author/record/N-5186-2018"> Web of Science</a></p>
+---
 
+- 👀 I’m currently focused on **Trustworthy AI, Neuro-symbolic Compilers, and end-to-end MLOps pipelines**.
+- 🔭 I’m currently a **Postdoctoral Fellow at Université de Montréal**, architecting cross-lab neuro-AI data pipelines and modernizing legacy scientific compute systems.
+- 🌱 I’m currently building **DeepSymbolica** (a PyTorch-native neuro-symbolic compiler) and **OxLearn** (a high-performance Rust ML library).
+- 👯 I’m looking to collaborate on **scalable deep learning infrastructure** and open-source validation tools.
+- 💬 Ask me about: **Controllable AI, SEM Image Denoising, Python architectures, or transitioning research into production code.**
+- 📫 How to reach me: [motiur.ion@gmail.com](mailto:motiur.ion@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/motiurinfo).
+- 😄 Fun fact: I love cooking, watching cartoons, and managing real-world property development!
+- ⚡ Love to play: ⚽ and 🏸
+
+---
+
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=motiurinfo&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0b1120" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motiurinfo&layout=compact&theme=vue-dark&hide_border=true&bg_color=0b1120" alt="Top Languages" />
+</div>
+
+---
+
+<h2 align="center"> 🔬 Academic & Research Profiles </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motiurinfo">
+  <a target="_blank" href="https://scholar.google.com/citations?user=7xRcCqwAAAAJ&hl=en">Google Scholar (30+ Pubs)</a> | 
+  <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57202087629">SCOPUS</a> | 
+  <a target="_blank" href="https://orcid.org/0000-0001-5278-5186">ORCID</a> | 
+  <a target="_blank" href="https://www.researchgate.net/profile/Sheikh-Shah-Mohammad-Rahman">ResearchGate</a> |
+  <a target="_blank" href="https://www.webofscience.com/wos/author/record/N-5186-2018">Web of Science</a>
 </p>
 
 <!---
 motiurinfo/motiurinfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
