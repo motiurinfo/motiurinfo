@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on **scalable deep learning infrastructure** and open-source validation tools.
 - 💬 Ask me about: **Controllable AI, SEM Image Denoising, Python architectures, or transitioning research into production code.**
 - 📫 How to reach me: [motiur.ion@gmail.com](mailto:motiur.ion@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/motiurinfo).
-- 😄 Fun fact: I love cooking, watching cartoons, and managing real-world property development!
+- 😄 Fun fact: I love cooking and watching cartoons!
 - ⚡ Love to play: ⚽ and 🏸
 
 ---
